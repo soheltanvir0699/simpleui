@@ -10,9 +10,9 @@ exports.default = {
     datepicker: {
       now: '現在',
       today: '今天',
-      cancel: '取消',
-      clear: '清空',
-      confirm: '確認',
+      cancel: 'Cancel',
+      clear: 'Clear',
+      confirm: 'Confrim',
       selectDate: '選擇日期',
       selectTime: '選擇時間',
       startDate: '開始日期',
@@ -82,7 +82,7 @@ exports.default = {
     messagebox: {
       title: '提示',
       confirm: '確定',
-      cancel: '取消',
+      cancel: 'Cancel',
       error: '輸入的資料不符規定!'
     },
     upload: {
