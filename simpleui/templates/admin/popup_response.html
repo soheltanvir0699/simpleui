@@ -1,6 +1,13 @@
 {% load i18n static %}
 <html>
-<head><title>{% trans 'Popup closing...' %}</title></head>
+<head>
+    <title>{% trans 'Popup closing...' %}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif; /* Replace 'Arial' with the font you want */
+        }
+    </style>
+</head>
 <body>
 <script type="text/javascript"
         id="django-admin-popup-response-constants"
