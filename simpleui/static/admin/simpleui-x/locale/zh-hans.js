@@ -27,8 +27,8 @@ var Lanuages = {
     "Theme name": "主题名",
     "Action": "操作",
 
-    "ConfirmYes": "确定",
-    "ConfirmNo": "取消",
+    "ConfirmYes": "Yes",
+    "ConfirmNo": "No",
     "Tips": "提示",
     "Are you sure you want them all closed": "你确定要全部关闭吗？",
 
